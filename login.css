@@ -1,0 +1,29 @@
+*{
+    background-color: #101010;
+    margin: 0;
+    font-family: monospace;
+}
+.tela-p-div-1 img{
+    margin: 30vh 0vw 0vh 32vw;
+}
+.tela-p-div-2{
+    width: 100%;
+    height: 100%;
+    display:inline-flex;
+}
+.tela-p-div-2 input{
+    height: 5vh;
+    width: 15vw;
+    margin: 15vh 8vw 0vh 42vw;
+}
+.tela-p-div-2 .btn{
+    height: 5vh;
+    width: 10vw;
+    margin-top: 25vh;
+    margin-left: 45vw;
+    position: absolute;
+    color: beige;
+}
+.tela-p-div-2 button:hover{
+    color: beige;
+}
