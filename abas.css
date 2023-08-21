@@ -1,8 +1,42 @@
 *{
     background-color: #696969;
+    margin: 0;
+    font-family: monospace;
+}
+nav, footer{
+    background-color: #101010;
+    height: 10vh;
+}
+.foto-logo{
+    background-color: #101010;
+    height: 10vh;
+}
+.foto-logo img{
+    background-color: #101010;
+    height: 2.5vh;
+    width: 9vw;
+    margin: 4vh 0 0 2vw;
 }
 .chats{
     background-color: #101010;
-    width: 20%;
-    height: 100%;
+    width: 20vw;
+    height: 80vh;
+}
+.aba-1{
+    background-color: #333333;
+    width: 17vw;
+    height: 6vh;
+    margin-left: 1vw;
+}
+.aba-2, .aba-3, .aba-4, .aba-5, .aba-6{
+    background-color: #333333;
+    margin-top: 2vh;
+    width: 17vw;
+    height: 6vh;
+    margin-left: 1vw;
+}
+p{
+    color: white;
+    background-color: #424242;
+    padding: 1vh;
 }
